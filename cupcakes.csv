@@ -1,0 +1,7 @@
+size,name,price,flavor,frosting,sprinkles,filling
+regular,Golden Sun,3.49,Lemon,Vanilla,"['Yellow', 'White', 'Golden']",White Chocolate
+mini,ChocoMint,1.29,Chocolate,Mint,"['Mint chips']",
+large,Blueberry Bliss,4.49,Blueberry,Cream Cheese,[],None
+regular,Quad Chocolate,3.49,Chocolate,Chocolate,"['Dark Chocolate']",Chocolate
+regular,Raspberry Ripple,3.49,Raspberry,Vanilla,[],None
+
